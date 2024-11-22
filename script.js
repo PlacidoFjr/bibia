@@ -14,7 +14,7 @@ noButton.addEventListener('mouseover', () => {
 yesButton.addEventListener('click', (e) => {
   e.target.disabled = true; // Evita múltiplos cliques
   e.target.textContent = 'Carregando...'; // Feedback ao usuário
-  alert('Prepare-se para uma música especial! 💖');
+  alert('Prepare-se para uma noite especial! 💖');
   window.location.href = 'https://www.youtube.com/watch?v=Yze41XDW8x0';
 });
 
