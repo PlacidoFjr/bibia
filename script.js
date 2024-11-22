@@ -15,7 +15,7 @@ yesButton.addEventListener('click', (e) => {
   e.target.disabled = true; // Evita múltiplos cliques
   e.target.textContent = 'Carregando...'; // Feedback ao usuário
   alert('Prepare-se para uma noite especial! 💖');
-  window.location.href = 'https://www.youtube.com/watch?v=Yze41XDW8x0';
+  window.location.href = 'https://youtu.be/7jpqqBX-Myw?si=ivWFSeA98pjEqwIS';
 });
 
 // Reajuste do botão "Não" ao redimensionar a janela
